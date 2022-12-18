@@ -29,8 +29,8 @@
    + Веб-сервис для хостинга IT-проектов и их совместной разработки GitHub.
    
 ### Работа над проектом ведется в команде.
-1. Репозиторий проекта будет доступен по ссылке: [Question's assistant](https://github.com/Tsyreniao/IT_MulticoloredPictures)
-2. Веб-страница с описанием проекта будет доступна по ссылке: [Landing page](https://github.com/Tsyreniao/IT_MulticoloredPictures)
+1. Репозиторий проекта доступен по ссылке: [Question's assistant](https://github.com/Tsyreniao/IT_MulticoloredPictures)
+2. Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://github.com/Tsyreniao/IT_MulticoloredPictures)
    
 ## ✅ Лабораторная работа № 3
 Работа с Cisco Packet Tracer
