@@ -62,6 +62,6 @@
 
 В качестве экзаменационного билета был выбран [билет №18](https://github.com/stankin/inet-2022/wiki/exam18).
 
-Личный [вклад](https://github.com/stankin/inet-2022/wiki/exam18/_compare/b7a1f4bcfd2403197adad64763db8def4d4a4e34...bc88d5f03bd7af9d6e257d24d2ef2e9b92d97b7f) на экзаменационный билет.
+Личный [вклад](https://github.com/stankin/inet-2022/wiki/exam18/_compare/b7a1f4bcfd2403197adad64763db8def4d4a4e34...bc88d5f03bd7af9d6e257d24d2ef2e9b92d97b7f) в экзаменационный билет.
 
 
