@@ -51,7 +51,7 @@
   * Цыбиков Цырен ИДМ-22-03  
     АД - Администрирование  
 
-Распределение ролей также показано в Google-таблице: [Кондуит ИДМ-22](https://docs.google.com/spreadsheets/d/1ypxgDUpNsaAK5PH90dTfGKdtDnWaeEDWfupEbDokN6A/edit#gid=1891559469)
+Распределение ролей также показано в Google-таблице: [кондуит ИДМ-22](https://docs.google.com/spreadsheets/d/1ypxgDUpNsaAK5PH90dTfGKdtDnWaeEDWfupEbDokN6A/edit#gid=1891559469).
    
 ## ✅ Лабораторная работа № 3
 Работа с Cisco Packet Tracer:
