@@ -33,7 +33,7 @@
 2. Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://tsyreniao.github.io/IT_MulticoloredPictures/).
    
 ## ✅ Лабораторная работа № 3
-Работа с Cisco Packet Tracer
+Работа с Cisco Packet Tracer:
 1. [Отчет](https://github.com/Tsyreniao/inet/blob/main/src/report.pdf).
 2. [Сценарий Cisco Packet Tracer](https://github.com/Tsyreniao/inet/blob/main/src/CiscoFile.pka).
 
