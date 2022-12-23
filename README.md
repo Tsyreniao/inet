@@ -37,7 +37,7 @@
 1. [Отчет](https://github.com/Tsyreniao/inet/blob/main/src/report.pdf)
 2. [Сценарий Cisco Packet Tracer](https://github.com/Tsyreniao/inet/blob/main/src/CiscoFile.pka)
 
-## ✅ Экзаменационный билет № 18
+## ✅ Экзаменационный билет
 
 В качестве экзаменационного билета был выбран [билет №18](https://github.com/stankin/inet-2022/wiki/exam18)
 
